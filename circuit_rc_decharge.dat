@@ -1,4 +1,8 @@
-# t(microsec), uc(echelle -(0-5)V vers (0-1023)B)
+# Etude d'un circuit RC en régime libre.
+# On a pris une résistance R = 100kOhm
+# Les valeurs de tension uc ne correspondent pas à une tension mais à son codage binaire.
+# Ses valeurs sont entre 0 et 1023. 0 correspond à une tension de 0V et 1023 à une tension de 5V.
+t(microsec), uc(binaire)
 4,1008
 244,990
 160,972
