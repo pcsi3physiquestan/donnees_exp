@@ -1,4 +1,10 @@
-# t(microsec)
+# Etude d'un régime libre d'un circuit RC
+#
+# Le microcontrolleur a permis d'automatiser la mesure du 
+# temps caractéristique du circuit RC (R=100kOhm).
+# Les valeurs données sont les temps caractéristiques estimées
+# à chaque décharge du condensateur.
+t(microsec)
 9988
 9868
 9860
