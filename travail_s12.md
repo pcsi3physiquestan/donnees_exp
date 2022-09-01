@@ -6,6 +6,8 @@ _Ceci est le planning de travail pour les deux premières semaines_
 * Numérique : Regrouper les questions sur Python puor la séance de 12h30 (questions sur Python / pb d'installation...)
 
 Lien vers le cours d'optique en ligne : [https://pcsi3physiquestan.github.io/optique](https://pcsi3physiquestan.github.io/optique)
+Lien vers le cours d'optique en ligne : [https://pcsi3physiquestan.github.io/optique](https://pcsi3physiquestan.github.io/mathematiques)
+_Les applications et approfondissements en ligne ne seront accessibles que lorsque la plateforme sera ouverte._
 
 
 # Pour le lundi 5/09
@@ -18,7 +20,7 @@ Lien vers le cours d'optique en ligne : [https://pcsi3physiquestan.github.io/opt
 
 
 # Pour le jeudi 8/09
-* TP - Groupe A : Lire les consignes (PJ)
+* TP - Groupe A : Lire les consignes [PDF ici](https://github.com/pcsi3physiquestan/donnees_exp/blob/main/consignes_tp.pdf?raw=true)
 * TP - Groupe A : Lire la présentation des notebooks (https://pcsi3physiquestan.github.io/jupyter_tuto/jupyter_tuto.html)
     * Ce premier TP permettra une familiarisation avec les biblithèques scientifiques de Python
 * TP - Groupe A : Lire et comprendre l'étude préliminaire du [TP Méthodes](https://pcsi3physiquestan.github.io/tp1_methodes/notebook/exo_protocole.html)
