@@ -5,8 +5,8 @@ _Ceci est le planning de travail pour les deux premières semaines_
 * Optique : Reprendre les exercices méthodes corrigés des chapitres
 * Numérique : Regrouper les questions sur Python puor la séance de 12h30 (questions sur Python / pb d'installation...)
 
-Lien vers le cours d'optique en ligne : [https://pcsi3physiquestan.github.io/optique](https://pcsi3physiquestan.github.io/optique)
-Lien vers le cours d'optique en ligne : [https://pcsi3physiquestan.github.io/optique](https://pcsi3physiquestan.github.io/mathematiques)
+Lien vers le cours d'optique en ligne : [https://pcsi3physiquestan.github.io/optique](https://pcsi3physiquestan.github.io/optique)  
+Lien vers le cours d'optique en ligne : [https://pcsi3physiquestan.github.io/mathematiques](https://pcsi3physiquestan.github.io/math)
 _Les applications et approfondissements en ligne ne seront accessibles que lorsque la plateforme sera ouverte._
 
 
